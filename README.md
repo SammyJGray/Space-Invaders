@@ -1,1 +1,7 @@
-This was the first project I ever did and really ignited my passion for coding. It is a simple space invaders clone that I created well following along with a tutorial. It was particully special to me as I felt like I made everything myself from scratch and really understood every line of code i wrote. One day, when I find a spare weekend I would like to make this project again from scatch and make it completly my own.
+## Space Invaders Clone
+
+This was the first project I ever completed, and it truly ignited my passion for coding. It's a simple Space Invaders clone that I built while following along with a tutorial.
+
+What made it particularly special to me was the sense of ownership I felt—I understood every line of code and it felt like I was building something from scratch. It was a turning point that deepened my interest in programming.
+
+One day, when I find a spare weekend, I'd love to recreate this project entirely from scratch and make it completely my own.
